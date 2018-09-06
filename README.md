@@ -1,7 +1,7 @@
 # jparser
 Checkout the maven project "jparser"
 move to directory jparser
-execute "mvn clean install"
+execute "mvn clean test"
 ******************************
 The application pulls data from file "users-1.json"
 It prints the following metrics in console for every 1000 records.
